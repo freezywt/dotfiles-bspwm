@@ -14,7 +14,7 @@ killall dunst; dunst &
 xfce4-power-manager &
 
 ## Compositor
-picom -b &
+picom &
 
 ## Background
 feh --bg-fill -r -z $HOME/Pictures/Wallpapers/pokemonuw.png &

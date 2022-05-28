@@ -1,0 +1,3 @@
+//@theme "~/.config/rofi/sidebar.rasi"
+
+@theme "/usr/share/rofi/themes/sidebar.rasi"
