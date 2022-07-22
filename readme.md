@@ -1,5 +1,5 @@
 # Dotfiles Bspwm
-  A dotfiles created with dark theme for bspwm/i3
+  A dotfiles created with dark theme for bspwm
 <hr />
 
 #### Preview
