@@ -1,4 +1,4 @@
-# Dotfiles i3
+# Dotfiles Bspwm
 <hr />
 
 #### Preview
